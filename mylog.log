@@ -1,0 +1,114 @@
+commit 3afc61914e38f8e6efceb66539e08cae4b68b936
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 23:39:19 2017 +0300
+
+    rb2
+
+rb2
+
+commit 47db40b87493f86a8fcaf6ed130a9303e341ee9a
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 23:38:57 2017 +0300
+
+    rb1
+
+rb1
+
+commit 66ca4282f3bb14d930c7768191393dd36ca6bab3
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 22:07:41 2017 +0300
+
+    amend 4
+    amend 5
+
+a2
+a3
+src7.txt
+
+commit 0abddf0f9f8e9e6c49443ba65f1527ac9a8b88e8
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 22:05:50 2017 +0300
+
+    ammend 1
+
+a1
+
+commit fdc6785940ffe57f8ad3f80d0020544e3c7b977f
+Merge: 3d3074a 1ff67ec
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 22:03:14 2017 +0300
+
+    Merge branch 'b1' of https://github.com/CanErzin/tedcik2 into b1
+
+commit 3d3074ad9e2d066bf2e000bf0d008842b8607254
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 21:52:42 2017 +0300
+
+    change 17
+
+src5.txt
+src6.txt
+
+commit 1ff67ec3560c41daa86c9289f1d948f0ba975d98
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 21:52:42 2017 +0300
+
+    change 16
+
+src5.txt
+
+commit 5ba1cef8081a293029ba884f70482fed35ebcb43
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 21:50:29 2017 +0300
+
+    change 15
+
+src4.txt
+
+commit 547cdada609c7002a04001077beab396ba88ca93
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 21:36:12 2017 +0300
+
+    change 13
+
+src3.txt
+
+commit 5a8d37841cafe193484d7036c0abae5996e798c2
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 21:25:41 2017 +0300
+
+    change 7
+
+src3.txt
+
+commit 4e4e3d5774d16d4e5544eb414daa80ab15e8b60b
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 20:59:48 2017 +0300
+
+    change 4
+
+src3.txt
+
+commit 15fe9b09e7ba0036c56e1e893ea74fcf208ff885
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 20:52:21 2017 +0300
+
+    third change
+
+src1.txt
+
+commit e10a005795db61ee60765159364b6abb9009e824
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 20:50:02 2017 +0300
+
+    change 2
+
+src2.txt
+
+commit 9aded12629a007ad3dc93bef8f0ff84c7a703aa7
+Author: Can Erzin <m.canerzin@gmail.com>
+Date:   Thu Jun 1 20:44:45 2017 +0300
+
+    change 1 commited
+
+src1.txt
